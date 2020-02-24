@@ -10,7 +10,7 @@ body{
 }
 
 .profileBody{
-    background-color:white;
+    background-color:rgba(255,255,255,1);
     width:75%;
     border:40px;
     margin-top: 6px;
