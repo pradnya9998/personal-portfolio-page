@@ -5,14 +5,13 @@
     margin: auto;
 }
 body{
-    min-width: 0px;
-    background-color: rgba(224,238,238,1);
+    min-width: 500px;
+    background-color: #e0eeee;
 }
 
 .profileBody{
     background-color:rgba(255,255,255,1);
     width:75%;
-    border:40px;
     margin-top: 6px;
     margin-left: 55px;
     height: 590px;
